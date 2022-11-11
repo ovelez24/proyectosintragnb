@@ -1,8 +1,15 @@
 footer{
-    background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+    background-color: rgb(166, 50, 50);
 }
 
 footer a{
     color: white;
 }
 
+
+ #menu {
+    max: width 600px;
+    max-height: 600px;
+
+
+}
